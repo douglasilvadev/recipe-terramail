@@ -1,0 +1,11 @@
+{
+  "id": "terramail",
+  "name": "TerraMail",
+  "version": "1.1.0",
+  "license": "MIT",
+  "repository": "https://github.com/douglasilvadev/recipe-terramail",
+  "config": {
+    "serviceURL": "https://mail.terra.com.br/",
+    "hasIndirectMessages": true
+  }
+}
