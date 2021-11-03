@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://getferdi.com/services">
-      <img src="./logo.svg" alt="" width="250"/>
+      <img src="https://raw.githubusercontent.com/getferdi/recipes/master/logo.svg" alt="Ferdi Recipes" width="250"/>
     </a>
 </p>
 
@@ -13,6 +13,9 @@ Recipes are small scripts that are responsible for providing the connection betw
 
 Each time you create a new service inside Ferdi, Ferdi will automatically install and execute the recipe associated with that service.
 
+## Get Ferdi
+
+Visit the [Ferdi] repository(https://github.com/getferdi/ferdi)
 ## Creating and adding your own recipes
 
 Please refer to our [documentation](https://github.com/getferdi/recipes/blob/master/docs/integration.md)
