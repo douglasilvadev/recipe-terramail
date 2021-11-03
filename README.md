@@ -15,7 +15,7 @@ Each time you create a new service inside Ferdi, Ferdi will automatically instal
 
 ## Get Ferdi
 
-Visit the [Ferdi] repository(https://github.com/getferdi/ferdi)
+Visit the [Ferdi](https://github.com/getferdi/ferdi) app 
 ## Creating and adding your own recipes
 
 Please refer to our [documentation](https://github.com/getferdi/recipes/blob/master/docs/integration.md)
