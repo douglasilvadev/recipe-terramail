@@ -13,7 +13,7 @@ module.exports = Ferdi => {
       'buffer channel active unread'
     ).length;
 
-    Ferdi.setBadge(directMessages, indirectMessages);
+    Ferdi.setBadge(directMessages, indirectMessages, count);
   };
 
   Ferdi.loop(getMessages);
